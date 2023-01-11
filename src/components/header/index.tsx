@@ -7,7 +7,7 @@ import {useHistory} from "react-router-dom";
 
 // import jwt_decode from "jwt-decode";
 
-import api from "../api";
+import api from "../../services/api/api";
 
 function Header(): any {
 
